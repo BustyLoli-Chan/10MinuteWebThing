@@ -48,3 +48,12 @@ span{
 ::selection{
   background: black;
 }
+
+div {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-size: .6 em;
+  text-align: center;
+}
