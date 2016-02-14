@@ -57,4 +57,6 @@ div {
   padding-bottom: 3em;
   font-size: .6em;
   text-align: center;
+  font-style: oblique;
+  letter-spacing: .2em;
 }
